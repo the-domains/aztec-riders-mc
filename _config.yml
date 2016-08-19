@@ -1,20 +1,28 @@
-typography_spectrum: 0.3473012
+title: Aztec Riders MC
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.2401434
   brandStrength: 0.9404112
-  lightness: 0.1451613
+  rhythmicContrast: 0.874552
   brandColors:
     - '#FDFDFD'
     - '#0A0D14'
     - '#2E4054'
     - '#D1CABA'
     - '#7D8EA0'
-  rhythmicContrast: 0.874552
+  lightness: 0.1451613
+typography_spectrum: 0.1182796
+description: we are a family club
 layout_spectrum: 1
 name: Aztec Riders MC
-navigation:
-  - name: Chapters
-    id: 46830abe-6839-4b28-b63d-28f51c35f4b3
-    type: content
-title: Aztec Riders MC
-description: we are a family club
