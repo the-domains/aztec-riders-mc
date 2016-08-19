@@ -12,5 +12,9 @@ color:
   rhythmicContrast: 0.874552
 layout_spectrum: 1
 name: Aztec Riders MC
+navigation:
+  - name: Chapters
+    id: 46830abe-6839-4b28-b63d-28f51c35f4b3
+    type: content
 title: Aztec Riders MC
 description: we are a family club
