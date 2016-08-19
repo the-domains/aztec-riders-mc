@@ -1,4 +1,4 @@
-layout_spectrum: 1
+typography_spectrum: 0.3473012
 color:
   saturation: 0.2401434
   brandStrength: 0.9404112
@@ -10,5 +10,6 @@ color:
     - '#D1CABA'
     - '#7D8EA0'
   rhythmicContrast: 0.874552
-typography_spectrum: 0.3473012
+layout_spectrum: 1
 name: Aztec Riders MC
+title: Aztec RIders MC
